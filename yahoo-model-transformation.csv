@@ -1,0 +1,276 @@
+brand,key-length,key,value
+Mitsubishi,16,LANCER SPORTBACK,Lancer Sportback 
+Mitsubishi,16,LANCER-SPORTBACK,Lancer Sportback 
+Mitsubishi,15,LANCERSPORTBACK,Lancer Sportback 
+Mitsubishi,15,Savrin Inspire ,Savrin Inspire 
+Mitsubishi,15,Savrin-Inspire ,Savrin Inspire 
+Mitsubishi,14,SavrinInspire ,Savrin Inspire 
+Mitsubishi,13,LANCER FORTIS,Lancer Fortis 
+Mitsubishi,13,LANCER-FORTIS,Lancer Fortis 
+Mitsubishi,13,FORTIS,Lancer Fortis 
+Mitsubishi,13,Super Zinger ,zinger
+Mitsubishi,13,Super-Zinger ,zinger
+Mitsubishi,12,LANCERFORTIS,Lancer Fortis 
+Mitsubishi,12,SuperZinger ,zinger
+Mitsubishi,11,boss zinger,zinger
+Mitsubishi,11,boss-zinger,zinger
+Mitsubishi,10,bosszinger,zinger
+Mitsubishi,10,pajero 三門款,Pajero  
+Mitsubishi,10,pajero-三門款,Pajero  
+Mitsubishi,10,pajero 五門款,Pajero  
+Mitsubishi,10,pajero-五門款,Pajero  
+Mitsubishi,10,space gear,Space Gear 
+Mitsubishi,10,space-gear,Space Gear 
+Mitsubishi,10,space gear,Space Gear 
+Mitsubishi,9,COLT PLUS,Colt Plus 
+Mitsubishi,9,COLT-PLUS,Colt Plus 
+Mitsubishi,9,LANCER IO,Lancer iO 
+Mitsubishi,9,LANCER-IO,Lancer iO 
+Mitsubishi,9,IO,Lancer iO 
+Mitsubishi,9,OUTLANDER,Outlander  
+Mitsubishi,9,pajero三門款,Pajero  
+Mitsubishi,9,pajero五門款,Pajero  
+Mitsubishi,9,spacegear,Space Gear 
+Mitsubishi,8,COLTPLUS,Colt Plus 
+Mitsubishi,8,LANCERIO,Lancer iO 
+Mitsubishi,7,GRUNDER,Grunder  
+Mitsubishi,6,zinger,zinger 
+Mitsubishi,6,lancer,Lancer  
+Mitsubishi,6,pajero,Pajero  
+Mitsubishi,6,SAVRIN,Savrin  
+Mitsubishi,6,ZINGER,Zinger  
+Mitsubishi,3,asx,ASX  
+Mitsubishi,3,evo,Lancer Evolution
+Nissan,15,BLUEBIRD SYLPHY,Bluebird Sylphy 
+Nissan,15,BLUEBIRD-SYLPHY,Bluebird Sylphy 
+Nissan,14,370Z Roadster ,370Z Roadster 
+Nissan,14,370Z-Roadster ,370Z Roadster 
+Nissan,14,Roadster 370Z ,370Z Roadster 
+Nissan,14,BLUEBIRDSYLPHY,Bluebird Sylphy 
+Nissan,13,370ZRoadster ,370Z Roadster 
+Nissan,13,Roadster-370Z,370Z Roadster 
+Nissan,13,Grand Livina ,Grand Livina 
+Nissan,13,Grand-Livina ,Grand Livina 
+Nissan,13,New Bluebird ,New Bluebird 
+Nissan,13,New-Bluebird ,New Bluebird 
+Nissan,12,Roadster370Z,370Z Roadster 
+Nissan,12,GrandLivina ,Grand Livina 
+Nissan,12,NewBluebird ,New Bluebird 
+Nissan,10,370Z Coupe,370Z Coupe 
+Nissan,10,370Z-Coupe,370Z Coupe 
+Nissan,10,Coupe 370Z,370Z Coupe 
+Nissan,10,Coupe-370Z,370Z Coupe 
+Nissan,9,370ZCoupe,370Z Coupe 
+Nissan,9,Coupe370Z,370Z Coupe 
+Nissan,9,blue bird,Bluebird  
+Nissan,9,blue-bird,Bluebird  
+Nissan,8,bluebird,Bluebird  
+Nissan,8,TIIDA 4D,Tiida  
+Nissan,8,TIIDA-4D,Tiida  
+Nissan,8,TIIDA 5D,Tiida  
+Nissan,8,TIIDA-5D,Tiida  
+Nissan,7,Quest  ,Quest  
+Nissan,7,TIIDA4D,Tiida  
+Nissan,7,TIIDA5D,Tiida  
+Nissan,7,x-trail,X-Trail  
+Nissan,7,x trail,X-Trail  
+Nissan,6,LIVINA,Livina  
+Nissan,6,MURANO,Murano  
+Nissan,6,sentra,Sentra  
+Nissan,6,SERENA,Serena  
+Nissan,6,xtrail,X-Trail  
+Nissan,5,MARCH,March  
+Nissan,5,ROGUE,Rogue  
+Nissan,5,TEANA,Teana  
+Nissan,5,tiida,Tiida  
+Nissan,4,350z,350Z Coupe
+Nissan,4,370Z,370Z Coupe 
+Nissan,4,JUKE,Juke  
+Nissan,2,gt,GT-R  
+Nissan,1,X,X-Trail  
+Toyota,12,prius hybrid,Prius Hybrid 
+Toyota,12,prius-hybrid,Prius Hybrid 
+Toyota,11,priushybrid,Prius Hybrid 
+Toyota,10,Prius PHV ,Prius PHV 
+Toyota,10,Prius-PHV ,Prius PHV 
+Toyota,9,PriusPHV ,Prius PHV 
+Toyota,7,ALPHARD,Alphard  
+Toyota,7,corolla,Corolla Altis 
+Toyota,7,cruiser,Land Cruiser 
+Toyota,7,prius α,Prius Alpha 
+Toyota,7,prius-α,Prius Alpha 
+Toyota,7,prius c,Prius c 
+Toyota,7,prius-c,Prius c 
+Toyota,6,INNOVA,Innova  
+Toyota,6,PREVIA,Previa  
+Toyota,6,priusα,Prius Alpha 
+Toyota,6,priusc,Prius c 
+Toyota,6,SIENNA,Sienna  
+Toyota,6,SIENTA,Sienta  
+Toyota,5,CAMRY,Camry  
+Toyota,5,Altis,Corolla Altis 
+Toyota,5,prado,Land Cruiser 
+Toyota,5,PRIUS,Prius  
+Toyota,5,rav-4,RAV4  
+Toyota,5,rav 4,RAV4  
+Toyota,5,YARIS,Yaris  
+Toyota,4,c-hr,C-HR  
+Toyota,4,c hr,C-HR  
+Toyota,4,land,Land Cruiser 
+Toyota,4,RAV4,RAV4  
+Toyota,4,VIOS,Vios  
+Toyota,4,WISH,Wish  
+Toyota,3,chr,C-HR  
+Toyota,3,X  ,X  
+Toyota,2,86,86
+Volkswagen,14,passat variant,Passat Variant 
+Volkswagen,14,passat-variant,Passat Variant 
+Volkswagen,13,Golf Variant ,Golf Variant 
+Volkswagen,13,Golf-Variant ,Golf Variant 
+Volkswagen,13,passatvariant,Passat Variant 
+Volkswagen,12,California  ,California  
+Volkswagen,12,GolfVariant ,Golf Variant 
+Volkswagen,12,passat sedan,Passat Sedan 
+Volkswagen,12,passat-sedan,Passat Sedan 
+Volkswagen,11,Caddy Maxi ,Caddy  
+Volkswagen,11,Caddy-Maxi ,Caddy  
+Volkswagen,11,Caravelle  ,Caravelle  
+Volkswagen,11,Crafter GP ,Crafter  
+Volkswagen,11,Crafter-GP ,Crafter  
+Volkswagen,11,passatsedan,Passat Sedan 
+Volkswagen,10,CaddyMaxi ,Caddy  
+Volkswagen,10,CrafterGP ,Crafter  
+Volkswagen,10,new bettle,New Bettle 
+Volkswagen,10,new-bettle,New Bettle 
+Volkswagen,9,Freestyle,Freestyle  
+Volkswagen,9,golf plus,Golf Plus 
+Volkswagen,9,golf-plus,Golf Plus 
+Volkswagen,9,newbettle,New Bettle 
+Volkswagen,9,PASSAT CC,Passat CC 
+Volkswagen,9,PASSAT-CC,Passat CC 
+Volkswagen,9,SPORTSVAN,Sportsvan  
+Volkswagen,9,tiguan gp,Tiguan  
+Volkswagen,9,tiguan-gp,Tiguan  
+Volkswagen,8,golfplus,Golf Plus 
+Volkswagen,8,golf gti,Golf GTI 
+Volkswagen,8,golf-gti,Golf GTI 
+Volkswagen,8,golf r32,Golf R32 
+Volkswagen,8,golf-r32,Golf R32 
+Volkswagen,8,multivan,Multivan  
+Volkswagen,8,PASSATCC,Passat CC 
+Volkswagen,8,SCIROCCO,Scirocco  
+Volkswagen,8,tiguangp,Tiguan  
+Volkswagen,7,CRAFTER,Crafter  
+Volkswagen,7,golfgti,Golf GTI 
+Volkswagen,7,golfr32,Golf R32 
+Volkswagen,7,phaeton,Phaeton  
+Volkswagen,7,touareg,Touareg  
+Volkswagen,6,AMAROK,Amarok  
+Volkswagen,6,BEETLE,Beetle  
+Volkswagen,6,PASSAT,Passat Sedan 
+Volkswagen,6,SHARAN,Sharan  
+Volkswagen,6,TIGUAN,Tiguan  
+Volkswagen,6,TOURAN,Touran  
+Volkswagen,5,CADDY,Caddy  
+Volkswagen,5,JETTA,Jetta  
+Volkswagen,5,kombi,Kombi  
+Volkswagen,5,vento,Vento  
+Volkswagen,4,golf,Golf  
+Volkswagen,4,POLO,Polo  
+Volkswagen,3,Eos,Eos  
+Volkswagen,3,r32,Golf R32 
+Volkswagen,3,R36,Passat Variant R36
+Volkswagen,3,R50,Touareg R50 
+Volkswagen,2,cc,CC  
+Volkswagen,2,t5,T5  
+ford,16,focus powershift,Focus Powershift 
+ford,15,Tourneo Custom ,Tourneo Custom 
+ford,11,MONDEO TDCI,Mondeo TDCi 
+ford,10,Fiesta 4D ,Fiesta  
+ford,10,Fiesta 5D ,Fiesta  
+ford,10,Fiesta-4D ,Fiesta  
+ford,10,Fiesta-5D ,Fiesta  
+ford,9,Fiesta4D ,Fiesta  
+ford,9,Fiesta5D ,Fiesta  
+ford,9,Focus 4D ,Focus
+ford,9,Focus 5D ,Focus
+ford,9,Focus-4D ,Focus
+ford,9,Focus-5D ,Focus
+ford,8,Focus4D ,Focus
+ford,8,Focus5D ,Focus
+ford,9,Mustang  ,Mustang  
+ford,8,econovan,Econovan  
+ford,8,ecosport,EcoSport  
+ford,8,Ranger  ,Ranger  
+ford,7,Focus  ,Focus  
+ford,7,tourneo,Tourneo Custom 
+ford,6,ESCAPE,Escape  
+ford,6,FIESTA,Fiesta  
+ford,6,MONDEO,Mondeo  
+ford,5,I max,i-Max  
+ford,5,i-max,i-Max  
+ford,4,imax,i-Max  
+ford,4,KUGA,Kuga  
+ford,3,載卡多,Econovan  
+ford,1,i,i-Max  
+honda,15,Insight Hybrid ,Insight Hybrid 
+honda,7,insight,Insight Hybrid 
+honda,7,ODYSSEY,Odyssey  
+honda,6,ACCORD,Accord  
+honda,6,legend,Legend  
+honda,5,CIVIC,Civic  
+honda,5,NSX  ,NSX  
+honda,4,CITY,City  
+honda,4,cr-v,CR-V  
+honda,4,cr-z,CR-Z  
+honda,4,hr-v,HR-V  
+honda,4,cr v,CR-V  
+honda,4,cr z,CR-Z  
+honda,4,hr v,HR-V  
+honda,3,crv,CR-V  
+honda,3,crz,CR-Z  
+honda,3,hrv,HR-V  
+honda,3,FIT,Fit  
+honda,3,hrv,HR-V  
+honda,2,CR,CR-V  
+lexus,2,ct,CT  
+lexus,2,ES,ES  
+lexus,2,GS,GS  
+lexus,2,IS,IS  
+lexus,8,isseries,IS  
+lexus,9,is series,IS  
+lexus,9,is-series,IS  
+lexus,3,isc,ISC  
+lexus,2,lc,LC  
+lexus,5,LFA  ,LFA  
+lexus,4,LS  ,LS  
+lexus,2,lx,LX  
+lexus,2,NX,NX  
+lexus,2,rc,RC  
+lexus,2,RX,RX  
+lexus,2,sc,SC  
+mazda,1,2,2
+mazda,4,3 4d,3
+mazda,4,3 5d,3
+mazda,4,3-4d,3
+mazda,4,3-5d,3
+mazda,1,3,3
+mazda,1,5,5
+mazda,1,6,6
+mazda,8,6 Wagon ,6 Wagon 
+mazda,4,cx-3,CX-3  
+mazda,4,cx-5,CX-5  
+mazda,4,cx-7,CX-7  
+mazda,4,cx-9,CX-9  
+mazda,4,mx-5,MX-5  
+mazda,7,TRIBUTE,Tribute  
+mazda,4,cx 3,CX-3  
+mazda,4,cx 5,CX-5  
+mazda,4,cx 7,CX-7  
+mazda,4,cx 9,CX-9  
+mazda,4,mx 5,MX-5  
+mazda,3,cx3,CX-3  
+mazda,3,cx5,CX-5  
+mazda,3,cx7,CX-7  
+mazda,3,cx9,CX-9  
+mazda,3,mx5,MX-5  
